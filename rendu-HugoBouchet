@@ -1,0 +1,74 @@
+Commandes GIT :
+1.1
+Ls : liste tous les fichiers de l’emplacement où on se situe
+Pwd : donne l’emplacement où on se situe (chemin)
+Fkggfejedof : commande non valable
+
+1.2
+Ls. :
+Ls* :
+Ls.. :
+Ls/ :
+Ls desktop : liste les fichiers du bureau
+Ls ziehhzu : liste les fichiers de ziehhzu
+
+1.11
+Quand le dossier est rempli impossible de supprimer
+
+Travail #1 :
+Ls : liste les fichiers
+Cd : recule dans le répertoire
+pwd : emplacement
+rm : supprime un fichier
+mkdir: créée un dossier vide
+rmdir: détruit un dossier vide	
+touch :	créée un fichier
+cat : ouvre un fichier
+
+2.4
+Cd Documents
+
+2.6
+Ls
+
+2.7
+Rm test.tar
+
+2.8
+-r test.tar
+
+3.5
+git status: montre le statut de la branche de travail
+git diff : affiche les modifications dans la branche de travail
+git add a.txt: indexe les modifications du fichier
+git status: /
+git commit -m "Premier commit": enregistre les modifications
+git status: //
+git log –stat: annonce les modifications
+
+Devoir #2:
+Git status est le plus courant
+Git commit
+Git add
+Git log-stat
+Ls
+Pwd
+Git push
+
+5.6
+Sa montre l’arborescence des modifications
+
+Devoir #3
+Git status
+Git log
+Git push (le plus important)
+Git remote 7-url
+Git add
+Git commit
+Git pull
+Git clone
+
+Devoir #4
+https://hugob71.github.io/index.html/
+
+7.
